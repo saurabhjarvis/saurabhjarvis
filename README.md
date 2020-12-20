@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arshsahzad" alt="arshsahzad" /> </p>
-
 <h2 align='center'> Hola Amigos <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/master/src/gifs/hi.gif">, I'm <a href="https://arshsahzad.com/">Arsh 🧑🏻‍💻</a> - Founder of <a href="https://softretic.com/">SoftRetic</a> </h2>
 
 <p align="center">
